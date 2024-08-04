@@ -1,2 +1,5 @@
-- Setup IDE: [varinant 1](https://youtu.be/fLnzplsCBis?si=Z6gVyN86V9VajqKt), [variant 2](https://youtu.be/7T4tldOe-u4?si=j_bHNoy1uwSkwnB3)
-- [Platform QUADRUPED](https://iarduino.ru/shop/Nabor/robot-laquo-quadruped-raquo---polnyy-nabor.html)
+# Project QUADRUPED
+
+## Before you start
+- Platform [QUADRUPED](https://iarduino.ru/shop/Nabor/robot-laquo-quadruped-raquo---polnyy-nabor.html)
+- Setup JetBrains Clion for Arduino Development: [varinant 1](https://youtu.be/fLnzplsCBis?si=Z6gVyN86V9VajqKt), [variant 2](https://youtu.be/7T4tldOe-u4?si=j_bHNoy1uwSkwnB3)
